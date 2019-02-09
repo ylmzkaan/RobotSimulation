@@ -1,4 +1,5 @@
 # Robot-Simulation
+Note: 3D Visualization isn't working yet
 This project involves a physics engine to simulate and visualize the commands given to a 4DOF robotic arm 
 
 The aim of this project is to simulate the motion of a 4DOF robotic arm while executing various commands given 
