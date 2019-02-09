@@ -1,0 +1,9 @@
+﻿Main.obj : error LNK2019: unresolved external symbol glfwInit referenced in function main
+Main.obj : error LNK2019: unresolved external symbol glfwTerminate referenced in function main
+Main.obj : error LNK2019: unresolved external symbol glfwCreateWindow referenced in function main
+Main.obj : error LNK2019: unresolved external symbol glfwWindowShouldClose referenced in function "void __cdecl display(struct GLFWwindow *,class PhysicsEngine)" (?display@@YAXPEAUGLFWwindow@@VPhysicsEngine@@@Z)
+Main.obj : error LNK2019: unresolved external symbol glfwPollEvents referenced in function "void __cdecl display(struct GLFWwindow *,class PhysicsEngine)" (?display@@YAXPEAUGLFWwindow@@VPhysicsEngine@@@Z)
+Main.obj : error LNK2019: unresolved external symbol glfwMakeContextCurrent referenced in function main
+Main.obj : error LNK2019: unresolved external symbol glfwSwapBuffers referenced in function "void __cdecl display(struct GLFWwindow *,class PhysicsEngine)" (?display@@YAXPEAUGLFWwindow@@VPhysicsEngine@@@Z)
+C:\Users\kaany\source\repos\RobotSimulation\Dependencies\GLFW\source\lib-vc2015\glfw3.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+C:\Users\kaany\source\repos\RobotSimulation\x64\Debug\RobotSimulation.exe : fatal error LNK1120: 7 unresolved externals

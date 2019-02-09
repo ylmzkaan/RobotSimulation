@@ -1,0 +1,18 @@
+﻿  Main.cpp
+c:\users\kaany\source\repos\robotsimulation\robotsimulation\physicsengine.h(62): warning C4244: '=': conversion from '_Rep' to 'double', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+c:\users\kaany\source\repos\robotsimulation\robotsimulation\physicsengine.h(84): warning C4018: '<': signed/unsigned mismatch
+c:\users\kaany\source\repos\robotsimulation\robotsimulation\physicsengine.h(110): warning C4018: '<': signed/unsigned mismatch
+c:\users\kaany\source\repos\robotsimulation\robotsimulation\physicsengine.h(123): warning C4018: '<': signed/unsigned mismatch
+c:\users\kaany\source\repos\robotsimulation\robotsimulation\physicsengine.h(134): warning C4018: '<': signed/unsigned mismatch
+c:\users\kaany\source\repos\robotsimulation\robotsimulation\physicsengine.h(141): warning C4018: '<': signed/unsigned mismatch
+c:\users\kaany\source\repos\robotsimulation\robotsimulation\physicsengine.h(156): warning C4018: '<': signed/unsigned mismatch
+c:\users\kaany\source\repos\robotsimulation\robotsimulation\physicsengine.h(176): warning C4018: '<': signed/unsigned mismatch
+c:\users\kaany\source\repos\robotsimulation\robotsimulation\physicsengine.h(181): warning C4018: '<': signed/unsigned mismatch
+c:\users\kaany\source\repos\robotsimulation\robotsimulation\physicsengine.h(193): warning C4018: '<': signed/unsigned mismatch
+c:\users\kaany\source\repos\robotsimulation\robotsimulation\physicsengine.h(200): warning C4018: '<': signed/unsigned mismatch
+c:\users\kaany\source\repos\robotsimulation\robotsimulation\arm.h(154): warning C4715: 'Arm::getAngularPosition': not all control paths return a value
+  RobotSimulation.vcxproj -> C:\Users\kaany\source\repos\RobotSimulation\Debug\RobotSimulation.exe
